@@ -1,0 +1,7 @@
+{"orderId2":0,"orderId":1,"amount":22.0,"currency":"USD","comment":"test1","filename":"test1.csv","line":1,"result":"OK"}
+{"orderId":1,"amount":22.0,"currency":"USD","comment":"test1"}
+{"orderId":1,"amount":22.0,"currency":"USD"}
+{"orderId":"1","amount":22.0,"currency":"USD","comment":"test1"}
+{"orderId":"1a","amount":22.0,"currency":"USD","comment":"test1"}
+[{"orderId":1,"amount":22.0,"currency":"USD","comment":"test1"}]
+{"orderId":2,"amount":1.15,"currency":"EUR","comment":"test2"}
